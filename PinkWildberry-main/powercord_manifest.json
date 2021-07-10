@@ -1,8 +1,0 @@
-{
-    "name": "Wildberry",
-    "description": "Inspired by a Pop Tart flavour enjoy a berry inspired color storm for discord.",
-    "version": "1.0.0",
-    "author": "Daggy",
-    "license": "MIT",
-    "theme": "./wildberry.css"
-}
